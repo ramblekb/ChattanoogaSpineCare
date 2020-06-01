@@ -1,0 +1,19 @@
+{
+  "name": "chattanoogaspinecare",
+  "version": "1.0.0",
+  "description": "Chattanooga Spine Care",
+  "main": "bootstrap-4.4.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramblekb/ChattanoogaSpineCare.git"
+  },
+  "author": "Kip Bradley Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramblekb/ChattanoogaSpineCare/issues"
+  },
+  "homepage": "https://github.com/ramblekb/ChattanoogaSpineCare#readme"
+}
