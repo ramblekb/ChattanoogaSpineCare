@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ramblekb/ChattanoogaSpineCare/issues"
   },
-  "homepage": "https://github.com/ramblekb/ChattanoogaSpineCare#readme"
+  "homepage": "https://github.com/ramblekb/ChattanoogaSpineCare#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
 }
